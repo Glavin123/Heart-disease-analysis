@@ -70,7 +70,7 @@ The visualization helps in identifying age groups with higher survival probabili
 
 ## 🖼️ Dashboard Preview
 
-![Heart Disease Analysis Dashboard]<img width="1920" height="1072" alt="Screenshot 2025-11-12 181857" src="https://github.com/user-attachments/assets/04f3f4f2-eb8e-4da0-b7e2-808a1a61a142" />
+<img width="1920" height="1072" alt="Screenshot 2025-11-12 181857" src="https://github.com/user-attachments/assets/04f3f4f2-eb8e-4da0-b7e2-808a1a61a142" />
 
 
 ---
